@@ -11,3 +11,5 @@
 ![alt text](image/image-2.png)
 
 
+## Slight Changes
+Saya membuat implementasi fitur baru, yaitu setiap kali user melakukan pengetikan yang masih belum dikirim ke server, maka akan muncul buble dengan isi '...' untuk menunjukkan bahwa user sedang mengetik
